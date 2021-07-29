@@ -26,6 +26,6 @@
   
   Demo of application being run:
   
-  <iframe src="https://drive.google.com/file/d/1sjSrMByR3kiwDNcqnvgNopzWWhqSZ6Cv/preview" width="640" height="480"></iframe>
+  https://drive.google.com/file/d/1sjSrMByR3kiwDNcqnvgNopzWWhqSZ6Cv/view?usp=sharing
   
   ![demoHWNode](https://user-images.githubusercontent.com/86609050/127526145-6aa9a95b-ab87-4444-a0e8-10677772b532.PNG)
