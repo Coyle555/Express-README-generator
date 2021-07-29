@@ -26,6 +26,7 @@
   
   Demo of application being run:
   
-  https://drive.google.com/file/d/1sjSrMByR3kiwDNcqnvgNopzWWhqSZ6Cv/view?usp=sharing
+  ![demo5](https://user-images.githubusercontent.com/86609050/127530548-95a1b2dc-ecb6-4f2f-8d7c-97ecac8e5bf2.gif)
+
   
   ![demoHWNode](https://user-images.githubusercontent.com/86609050/127526145-6aa9a95b-ab87-4444-a0e8-10677772b532.PNG)
